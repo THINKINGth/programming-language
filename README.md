@@ -10,16 +10,30 @@ enrich oneself and surpass oneself.
 
 ### python
 - python-note
-- python-
+- Algorithm-python
 
 ### java
 - java-note
 
-### C
-- C-note
+### c
+- c-note
+- Basic-arithmetic
 
-### C++
-- C++-note
+### c++
+- c++-note
+
+### shell
+- shell-note
+
+### javascpipt
+- javascript-note
+
+### css
+- css-note
+
+### php
+- php-note
+
 
 ### ...
 
