@@ -11,6 +11,8 @@ enrich oneself and surpass oneself.
 ### python
 - python-note
 - Algorithm-python
+- train_time
+- text-search
 
 ### java
 - java-note
