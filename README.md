@@ -10,22 +10,22 @@ enrich oneself and surpass oneself.
 
 ### python
 - [python-note](https://github.com/THINKINGth/python-note)
-- Algorithm-python
-- train_time
-- text-search
+- [Algorithm-python](https://github.com/THINKINGth/Algorithm-python)
+- [train_time](https://github.com/THINKINGth/train_time)
+- [text-search](https://github.com/THINKINGth/text-search)
 
 ### java
 - java-note
 
-### c
-- c-note
-- Basic-arithmetic
+### C
+- [C-note](https://github.com/THINKINGth/C-note)
+- [Basic-arithmetic](https://github.com/THINKINGth/[Basic-arithmetic)
 
-### c++
-- c++-note
+### C++
+- C++-note
 
 ### shell
-- shell-note
+- [shell-note](https://github.com/THINKINGth/shell-note)
 
 ### javascpipt
 - javascript-note
