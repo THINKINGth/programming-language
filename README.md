@@ -6,10 +6,10 @@ enrich oneself and surpass oneself.
 
 ## List
 ### go
-- go-note
+- [go-note](https://github.com/THINKINGth/go-note)
 
 ### python
-- python-note
+- [python-note](https://github.com/THINKINGth/python-note)
 - Algorithm-python
 - train_time
 - text-search
