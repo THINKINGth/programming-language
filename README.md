@@ -11,15 +11,17 @@ enrich oneself and surpass oneself.
 ### python
 - [python-note](https://github.com/THINKINGth/python-note)
 - [Algorithm-python](https://github.com/THINKINGth/Algorithm-python)
-- [train_time](https://github.com/THINKINGth/train_time)
+- [train-time](https://github.com/THINKINGth/train_time)
 - [text-search](https://github.com/THINKINGth/text-search)
+- [data-structure-python](https://github.com/THINKINGth/data-structure-python)
 
 ### java
 - java-note
 
 ### C
 - [C-note](https://github.com/THINKINGth/C-note)
-- [Basic-arithmetic](https://github.com/THINKINGth/[Basic-arithmetic)
+- [basic-arithmetic](https://github.com/THINKINGth/basic-arithmetic)
+- [data-structure-c](https://github.com/THINKINGth/data-structure-c)
 
 ### C++
 - C++-note
