@@ -16,7 +16,8 @@ enrich oneself and surpass oneself.
 - [data-structure-python](https://github.com/THINKINGth/data-structure-python)
 
 ### java
-- java-note
+- [java-note](https://github.com/THINKINGth/java-note)
+- [data-structure-java](https://github.com/THINKINGth/data-structure-java)
 
 ### C
 - [C-note](https://github.com/THINKINGth/C-note)
